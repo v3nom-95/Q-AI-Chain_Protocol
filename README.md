@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=for-the-badge&logo=github&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Q-AI%20Chain&fontSize=50&fontAlignY=38&animation=twinkling&desc=Next-Gen%20Decentralized%20Trust&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0055ff&height=150&section=header&text=Q-AI%20Chain&fontSize=50&fontAlignY=38&desc=Next-Gen%20Decentralized%20Trust&descAlignY=60" />
 
 **Q-AI Chain** is a state-of-the-art modular protocol for identity verification, transaction security, and fraud prevention in a post-quantum world. 
 
@@ -83,6 +83,6 @@ graph TD
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0055ff&height=100&section=footer" />
   <p>Developed for a <strong>secure, decentralized, and intelligent future</strong>.</p>
 </div>
